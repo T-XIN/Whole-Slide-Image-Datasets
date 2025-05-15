@@ -7,7 +7,7 @@ This repository aims to guide you through the process of finding, downloading, a
 
 Medical images are crucial for various applications, including research, diagnostics, and machine learning. Publicly available medical image datasets provide a valuable resource for developing and testing algorithms. In this guide, we'll explore where to find these datasets, how to download them, and how to use them in your projects.
 
-## NO.1 TCGA (The Cancer Genome Atlas)
+## No.1 TCGA (The Cancer Genome Atlas)
 
 1. **Where to Find**: Visit [National Cancer Institute GDC Data Portal Homepage](https://portal.gdc.cancer.gov/).
 
