@@ -20,7 +20,7 @@ Medical images are crucial for various applications, including research, diagnos
 	- **UUID** Extract UUID from folder name (assuming folder name is the UUID).
 
 4. **TCGA-NSCLC (lung)**
-	- **TCGA-LUAD** (lung adenocarcinoma): 541 diagnostic slides in total; however, there are 10 slides that have no MPP information.
+	- **TCGA-LUAD** (lung adenocarcinoma): 541 diagnostic slides in total; however, there are [10 slides](TCGA/tcga_luad_discard.csv) that have no MPP information.
 	- **TCGA-LUSC** (lung squamous cell carcinoma): 512 diagnostic slides
 5. **TCGA-RCC  (Rental Cell carcinoma)**
 	- **TCGA-KIRC** (Kidney Renal Clear Cell Carcinoma): 519 diagnostic slides
